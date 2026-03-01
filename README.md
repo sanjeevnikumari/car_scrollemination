@@ -20,5 +20,5 @@ Features include:
 
 ---
 
-![Hero Section](./public/screenshot.png)
+![Hero Section](./public/Screenshot.png)
 
