@@ -1,16 +1,29 @@
-# React + Vite
+# Scrollless Hero Section Animation – WELCOMEITZFIZZ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This project implements a **hero section animation** using **React**, **GSAP**, and **Tailwind CSS**.  
+Unlike traditional scroll-triggered animations, this version allows the **hero animation to progress with mouse wheel input** without actually scrolling the page.  
 
-Currently, two official plugins are available:
+Features include:  
+- Animated headline with staggered letters (`WELCOMEITZFIZZ`)  
+- Car image moving horizontally across the hero section  
+- Animated statistics that fade and slide in  
+- Smooth, performant animations using GSAP  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Demo:** *(Insert your deployed link here)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
+- **React / Next.js** – Frontend framework  
+- **GSAP** – Animation library for smooth motion  
+- **Tailwind CSS** – Utility-first styling  
+- Vanilla JavaScript for event handling  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Hero Section](./public/screenshot(45).png)
+
+1. Clone the repository:
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
