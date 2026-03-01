@@ -10,8 +10,6 @@ Features include:
 - Animated statistics that fade and slide in  
 - Smooth, performant animations using GSAP  
 
-**Live Demo:** *(Insert your deployed link here)*
-
 ---
 
 ## Tech Stack
@@ -22,8 +20,5 @@ Features include:
 
 ---
 
-![Hero Section](./public/screenshot(45).png)
+![Hero Section](./public/screenshot.png)
 
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
